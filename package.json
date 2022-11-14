@@ -1,0 +1,21 @@
+{
+  "name": "kos",
+  "displayName": "Kos",
+  "description": "A soothing but brightly contrasting theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kos",
+        "uiTheme": "hc-black",
+        "path": "./themes/Kos-color-theme.json"
+      }
+    ]
+  }
+}
