@@ -2,9 +2,20 @@
   "name": "kos",
   "displayName": "Kos",
   "description": "A soothing but brightly contrasting theme for VSCode",
+  "publisher": "Jack Doherty",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
+  },
+  "icon": "icons/kos-icon.png",
+  "author": {
+    "name": "Jack Doherty",
+    "email": "youcangetjack@gmail.com",
+    "url": "http://jackdoherty.tech/"
+  },
+  "repository": {
+    "url": "https://github.com/jack-elliot-doherty/Kos.git",
+    "type": "git"
   },
   "categories": [
     "Themes"
